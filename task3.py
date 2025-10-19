@@ -1,4 +1,4 @@
-#1- write 2 programs that removes duplicates from a list → list = [1,2,3,4,1,5,2,3,6]
+#1- write program that removes duplicates from a list → list = [1,2,3,4,1,5,2,3,6]
 
 #Remove duplicates using set
 list1 = [1, 2, 3, 4, 1, 5, 2, 3, 6]
@@ -29,3 +29,4 @@ phone = input("Phone: ")
 
 for digit in phone:
     print(numbers[digit], end=' ')
+
